@@ -3,12 +3,12 @@
     <channel>
         <title>Vode</title>
         <item>
-            <title>0.7.5</title>
-            <pubDate>Wed, 17 Jun 2026 14:48:29 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+            <title>0.7.6</title>
+            <pubDate>Thu, 18 Jun 2026 23:13:33 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fabienbutz/vode-releases/releases/download/v0.7.5/Vode.dmg" length="13140739" type="application/octet-stream" sparkle:edSignature="BpCZfq2qc+krTKNU96oLi5I1Lq+A3e7AiDi8BxdAhO0NyYHqRdwyZunAL6iK/3aP+ZxVNgpV7yadaz/vljWBDA=="/>
+            <enclosure url="https://github.com/fabienbutz/vode-releases/releases/download/v0.7.6/Vode.dmg" length="13160403" type="application/octet-stream" sparkle:edSignature="ukjKoNcHj4S1N5aeof67OwClGATaFtq3aJvaiOfyD1ZuUBO7J4cNCy2Y+2YdkfIiIavlkVruqwHap0ibGAd6Dw=="/>
         </item>
     </channel>
 </rss>
